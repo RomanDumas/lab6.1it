@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\LR6.1_it\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBF48BC2-D1AE-4131-B35C-3B562A9DF343}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\hp\\source\\repos\\LR6.1_it\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DBF48BC2-D1AE-4131-B35C-3B562A9DF343}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D0339B9-1853-48AE-8D42-AD5289C54B20}|LR6.1_it\\LR6.1_it.vcxproj|C:\\Users\\hp\\source\\repos\\LR6.1_it\\LR6.1_it\\LR6.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6D0339B9-1853-48AE-8D42-AD5289C54B20}|LR6.1_it\\LR6.1_it.vcxproj|solutionrelative:LR6.1_it\\LR6.1it.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR6.1_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR6.1_it\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-15T15:18:57.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LR6.1it.cpp",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\LR6.1_it\\LR6.1_it\\LR6.1it.cpp",
+              "RelativeDocumentMoniker": "LR6.1_it\\LR6.1it.cpp",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\LR6.1_it\\LR6.1_it\\LR6.1it.cpp",
+              "RelativeToolTip": "LR6.1_it\\LR6.1it.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T09:45:18.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
